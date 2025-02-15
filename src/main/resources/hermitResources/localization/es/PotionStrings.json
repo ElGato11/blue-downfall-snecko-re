@@ -1,14 +1,14 @@
 {
 "hermit:Tonic": {
-        "NAME": "Tonic",
-        "DESCRIPTIONS": ["Gain #b", " #yRugged [REMOVE_SPACE]."]
+        "NAME": "Tónico",
+        "DESCRIPTIONS": ["Obtén #b", " #yRobusto [ELIMINAR_ESPACIO]."]
 },
 "hermit:BlackBile": {
-        "NAME": "Black Bile",
-        "DESCRIPTIONS": ["Apply #b", " #yBruise [REMOVE_SPACE]."]
+        "NAME": "Bilis Negra",
+        "DESCRIPTIONS": ["Aplica #b", " #yMagulladura [ELIMINAR_ESPACIO]."]
 },
 "hermit:Eclipse": {
-        "NAME": "Liquid Void",
-        "DESCRIPTIONS": ["Put #b", " card from your #yexhaust pile into your hand. It costs #b0 this turn."," cards from your #yexhaust pile into your hand. They cost #b0 this turn."]
+        "NAME": "Vacío Líquido",
+        "DESCRIPTIONS": ["Pon #b", " carta de tu pila de #yagotadas en tu mano. Cuesta #b0 este turno."," cartas de tu pila de #yagotadas en tu mano. Cuestan #b0 este turno."]
 }
 }

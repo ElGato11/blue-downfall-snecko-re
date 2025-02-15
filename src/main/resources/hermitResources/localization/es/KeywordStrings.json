@@ -1,57 +1,57 @@
 [
   {
-    "PROPER_NAME": "Dead On",
+    "PROPER_NAME": "Preciso",
     "NAMES": [
-      "Dead On",
-      "Dead_On",
-      "dead_on",
-      "deadon"
+      "Preciso",
+      "preciso",
+      "Preciso",
+      "preciso"
     ],
-    "DESCRIPTION": "Dead On cards have a bonus effect when in the middle of your hand."
+    "DESCRIPTION": "Las cartas Preciso tienen un efecto adicional cuando están en el centro de tu mano."
   },
   {
-    "PROPER_NAME": "Concentration",
+    "PROPER_NAME": "Concentracion",
     "NAMES": [
-      "Concentrate",
-      "concentrate",
-      "concentrated",
-      "Concentrated"
+      "Concentrar",
+      "concentrar",
+      "concentrado",
+      "Concentrado"
     ],
-    "DESCRIPTION": "The next #yDead #yOn card played while #yConcentrated triggers its effect regardless of position. Wears off on turn end."
+    "DESCRIPTION": "La próxima carta #yPreciso jugada mientras estés #yConcentrado activará su efecto sin importar su posición hasta al final del turno."
   },
   {
-    "ID": "bruise",
-    "PROPER_NAME": "Bruise",
+    "ID": "Magulladura",
+    "PROPER_NAME": "Magulladura",
     "NAMES": [
-      "bruise",
-      "bruised"
+      "Magulladura",
+      "Magullado"
     ],
-  "DESCRIPTION": "Bruised targets take more attack damage. Wears off on turn end."
+  "DESCRIPTION": "Los objetivos magullados reciben más daño de ataques hasta el final del turno."
 },
   {
-    "ID": "rugged",
-    "PROPER_NAME": "Rugged",
+    "ID": "Robusto",
+    "PROPER_NAME": "Robusto",
     "NAMES": [
-      "rugged"
+      "robusto"
     ],
-  "DESCRIPTION": "Reduces next instance of attack damage taken to #b2 [REMOVE_SPACE]."
+  "DESCRIPTION": "Reduce la próxima cantidad de daño de ataque recibido a #b2 [REMOVE_SPACE]."
 },
   {
-    "PROPER_NAME": "Bounty",
+    "PROPER_NAME": "Recompensa",
     "NAMES": [
-      "bounty"
+      "recompensa"
     ],
-  "DESCRIPTION": "Normal Enemy: #b15 gold.      Elite Enemy: #b40 gold.            Boss: #b100 gold."
+  "DESCRIPTION": "Enemigos normales: #b15 oro. Élites: #b40 oro. Jefes: #b100 oro."
 },
   {
-    "PROPER_NAME": "Stun",
+    "PROPER_NAME": "Arturdir",
     "NAMES": [
-      "stun",
-      "Stun",
-      "stunned",
-      "Stunned"
+      "arturdir",
+      "Arturdir",
+      "arturdido",
+      "Arturdido"
     ],
-    "DESCRIPTION": "Stunned enemies skip their turn."
+    "DESCRIPTION": "Los enemigos aturdidos saltan su turno."
   }
 
 ]

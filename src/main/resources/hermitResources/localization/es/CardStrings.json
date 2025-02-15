@@ -148,54 +148,54 @@
     "NAME": "Mecha Corta",
     "DESCRIPTION": "Haz !D! de daño. NL Cuesta 1 menos [E] por cada *Golpe o *Defender jugado este turno."
   },
- // "hermit:Grudge": {
-    "NAME": "Rencor",
+  "hermit:Grudge": {
+    "NAME": "Resentimiento",
     "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Haz !M! más por cada carta de Maldición que tengas."
   },
   "hermit:Spite": {
-    "NAME": "Despecho",
+    "NAME": "Rencor",
     "DESCRIPTION": "Agota todas las cartas No Jugables en tu mano. NL Gana !B! de Bloqueo. NL Roba !M! cartas."
   },
   "hermit:Manifest": {
     "NAME": "Manifestar",
-    "DESCRIPTION": "Gana !B! de Bloqueo. NL Añade una *Decadencia a tu mano."
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Añade una *Descomposicion a tu mano."
   },
   "hermit:Feint": {
     "NAME": "Finta",
-    "DESCRIPTION": "Gana !B! de Bloqueo. NL Aplica !M! hermit:Cardenal a TODOS los enemigos."
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Aplica !M! hermit:bruise a TODOS los enemigos."
   },
   "hermit:LowProfile": {
     "NAME": "Perfil Bajo",
-    "DESCRIPTION": "Gana !B! de Bloqueo. NL Gana !M! Bloqueo adicional por cada uno de tus debuffs."
+    "DESCRIPTION": "Gana !B! de Bloqueo. NL Gana !M! Bloqueo adicional por cada uno de tus efectos negativos."
   },
   "hermit:Horror": {
     "NAME": "Horror",
-    "DESCRIPTION": "Aplica !M! hermit:Cardenal a TODOS los enemigos. NL hermit:Cardenal no se elimina este turno."
+    "DESCRIPTION": "Aplica !M! hermit:bruise a TODOS los enemigos. NL hermit:bruise no se elimina este turno."
   },
   "hermit:NoHoldsBarred": {
-    "NAME": "Sin Restricciones",
-    "DESCRIPTION": "Haz !D! de daño y aplica !M! hermit:Cardenal a TODOS los enemigos. NL Gana 1 [E] menos el próximo turno."
+    "NAME": "Sin Limites",
+    "DESCRIPTION": "Haz !D! de daño y aplica !M! hermit:bruise a TODOS los enemigos. NL Gana 1 [E] menos el próximo turno."
   },
   "hermit:Cheat": {
-    "NAME": "Trampear",
+    "NAME": "Trampas",
     "DESCRIPTION": "Juega una de las primeras !M! cartas en tu mazo de robo. NL hermit:Dead_On: También activa su efecto hermit:Dead_On."
   },
   "hermit:Vantage": {
-    "NAME": "Ventaja",
+    "NAME": "Posicion favorable",
     "DESCRIPTION": "Gana !B! de Bloqueo. NL hermit:Dead_On: Roba y Mejora una carta.",
     "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. NL hermit:Dead_On: Roba y Mejora !M! cartas."
   },
   "hermit:Brawl": {
     "NAME": "Pelea",
-    "DESCRIPTION": "Al inicio de tu turno, aplica !M! hermit:Cardenal a TODOS los enemigos."
+    "DESCRIPTION": "Al inicio de tu turno, aplica !M! hermit:bruise a TODOS los enemigos."
   },
   "hermit:Combo": {
     "NAME": "Combo",
-    "DESCRIPTION": "Añade la primera carta hermit:Dead_On activada cada turno de vuelta en tu mano.",
-    "UPGRADE_DESCRIPTION": "Añade las primeras !M! cartas hermit:Dead_On activadas cada turno de vuelta en tu mano."
+    "DESCRIPTION": "Devuelve la primera carta hermit:Dead_On activada cada turno a tu mano.",
+    "UPGRADE_DESCRIPTION": "Devuelte las primeras !M! cartas hermit:Dead_On activadas cada turno a tu mano."
   },
   "hermit:BigShot": {
-    "NAME": "Barril Humeante",
+    "NAME": "Gran Disparo",
     "DESCRIPTION": "Cada vez que activas un efecto hermit:Dead_On, tu próximo ataque Haz !M! más daño."
   },
   "hermit:OverwhelmingPower": {
@@ -204,7 +204,7 @@
   },
   "hermit:Maintenance": {
     "NAME": "Mantenimiento",
-    "DESCRIPTION": "Los *Golpes Hazn !M! más daño este combate. NL Gana !hermit:SecondMagic! Destreza. NL Esto cuesta 1 más este combate."
+    "DESCRIPTION": "Los *Golpes hacen !M! más daño este combate. NL Gana !hermit:SecondMagic! Destreza. NL Esto cuesta 1 más este combate."
   },
   "hermit:EternalForm": {
     "NAME": "Forma Eterna",
@@ -212,28 +212,28 @@
     "UPGRADE_DESCRIPTION": "Las primeras 4 cartas jugables robadas al inicio de cada turno cuestan 1 menos ese turno."
   },
   "hermit:FullyLoaded": {
-    "NAME": "Completamente Cargado",
+    "NAME": "Armado hasta los dientes",
     "DESCRIPTION": "Añade TODOS los *Golpes y *Defender de tu mazo de robo en tu mano. NL Agota.",
     "UPGRADE_DESCRIPTION": "Retener. NL Añade TODOS los *Golpes y *Defender de tu mazo de robo en tu mano. NL Agota."
   },
   "hermit:Gestalt": {
-    "NAME": "Gestalt",
-    "DESCRIPTION": "Gana 2 hermit:Robusto. NL Gana !M! Vulnerable. NL Agota."
+    "NAME": "Totalidad",
+    "DESCRIPTION": "Gana 2 hermit:rugged. NL Gana !M! Vulnerable. NL Agota."
   },
   "hermit:RoundhouseKick": {
     "NAME": "Patada Giratoria",
-    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL hermit:Aturde a los que no tienen intención de atacar. NL Agota."
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL hermit:stun a los que no tienen intención de atacar. NL Agota."
   },
-  "hermit:CursedWeaAñade": {
+  "hermit:CursedWeapon": {
     "NAME": "Arma Maldita",
-    "DESCRIPTION": "Pierde !M! PV. NL Haz !D! de daño. NL Las *Armas *Malditas Hazn permanentemente !hermit:SecondMagic! más daño. NL Agota."
+    "DESCRIPTION": "Pierde !M! PV. NL Haz !D! de daño. NL Las *Armas *Malditas hacen permanentemente !hermit:SecondMagic! más de daño. NL Agota."
   },
   "hermit:Enervate": {
     "NAME": "Enervar",
     "DESCRIPTION": "Haz !D! de daño. NL hermit:Dead_On: NL Gana [E] y roba una carta."
   },
   "hermit:Ricochet": {
-    "NAME": "Rebote",
+    "NAME": "Ricochet",
     "DESCRIPTION": "Haz !D! de daño. Repite en un enemigo aleatorio por cada efecto hermit:Dead_On este turno.",
     "EXTENDED_DESCRIPTION": [
       " NL (Repite !M! ",
@@ -242,7 +242,7 @@
     ]
   },
   "hermit:TrackingShot": {
-    "NAME": "Disparos Rastreados",
+    "NAME": "Disparos Guiados",
     "DESCRIPTION": "hermit:Concentration. NL Haz !D! de daño dos veces."
   },
   "hermit:LoneWolf": {
@@ -254,7 +254,7 @@
     "DESCRIPTION": "Cada vez que juegas un *Golpe o *Defender, roba una carta."
   },
   "hermit:Reprieve": {
-    "NAME": "Reprieve",
+    "NAME": "Indulto",
     "DESCRIPTION": "Etereo. NL Cura !M! PV. NL Agota."
   },
   "hermit:TakeAim": {
@@ -268,15 +268,15 @@
   },
   "hermit:Determination": {
     "NAME": "Determinación",
-    "DESCRIPTION": "Cada vez que se te aplique un debuff, gana 1 Fuerza.",
-    "UPGRADE_DESCRIPTION": "Innato. NL Cada vez que se te aplique un debuff, gana 1 Fuerza."
+    "DESCRIPTION": "Cada vez que se te aplique un efecto negarivo, gana 1 Fuerza.",
+    "UPGRADE_DESCRIPTION": "Innato. NL Cada vez que se te aplique un efecto negarivo, gana 1 Fuerza."
   },
   "hermit:Showdown": {
     "NAME": "Duelo Final",
     "DESCRIPTION": "Haz !D! de daño. NL Juega todos los *Golpes en tu mano."
   },
   "hermit:LuckOfTheDraw": {
-    "NAME": "Suerte del Sorteo",
+    "NAME": "Corazon de las cartas",
     "DESCRIPTION": "Roba cartas hasta que su costo total sea !M! o más."
   },
   "hermit:Coalescence": {
@@ -284,8 +284,8 @@
     "DESCRIPTION": "Gana !B! de Bloqueo. NL Retén hasta !M! cartas este turno."
   },
   "hermit:PistolWhip": {
-    "NAME": "Golpe con Pistola",
-    "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! hermit:Cardenal."
+    "NAME": "Culatazo",
+    "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! hermit:bruise."
   },
   "hermit:DeadMansHand": {
     "NAME": "Mano del Muerto",
@@ -293,7 +293,7 @@
   },
   "hermit:DeadOrAlive": {
     "NAME": "Vivo o Muerto",
-    "DESCRIPTION": "Haz !D! de daño X veces. NL Si es Fatal, consigue una hermit:Recompensa. NL Agota."
+    "DESCRIPTION": "Haz !D! de daño X veces. NL Si es Fatal, consigue una hermit:bounty. NL Agota."
   },
   "hermit:GoldenBullet": {
     "NAME": "Bala Dorada",
@@ -320,15 +320,15 @@
     ]
   },
   "hermit:HeroicBravado": {
-    "NAME": "Bravura Heroica",
-    "DESCRIPTION": "Etereo. NL Gana 1 hermit:Robusto. NL Aumenta el coste de esta carta en !M! este combate."
+    "NAME": "Intervencion Heroica",
+    "DESCRIPTION": "Etereo. NL Gana 1 hermit:rugged. NL Aumenta el coste de esta carta en !M! este combate."
   },
   "hermit:FromBeyond": {
-    "NAME": "Desde Más Allá",
-    "DESCRIPTION": "Por cada carta en tu pila de agotamiento, un enemigo aleatorio pierde !M! PV."
+    "NAME": "Desde el Más Allá",
+    "DESCRIPTION": "Por cada carta agotada, un enemigo aleatorio pierde !M! PV."
   },
   "hermit:Virtue": {
     "NAME": "Virtud",
-    "DESCRIPTION": "Retener. NL Reduce cada uno de tus debuffs en !M!."
+    "DESCRIPTION": "Retener. NL Reduce cada uno de tus efectos negativos en !M!."
   }
 }
