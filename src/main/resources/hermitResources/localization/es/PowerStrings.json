@@ -5,15 +5,15 @@
         },
         "hermit:HighNoonPower": {
                 "NAME": "Mediodía",
-                "DESCRIPTIONS": ["Cada vez que juegues una carta #yStrike o #yDefend, roba #b", " carta.", " cartas."]
+                "DESCRIPTIONS": ["Cada vez que juegues una carta #yGolpe o #yDefender, roba #b", " carta.", " cartas."]
         },
         "hermit:FatalDesirePower": {
                 "NAME": "Deseo Fatal",
-                "DESCRIPTIONS": ["Al comienzo de tu turno, roba #b", " cartas y añade #b", " #yInjury a tu mano.", " #yInjuries a tu mano."]
+                "DESCRIPTIONS": ["Al comienzo de tu turno, roba #b", " cartas y añade #b", " #yLesión a tu mano.", " #yLesión a tu mano."]
         },
         "hermit:ShadowCloakPower": {
                 "NAME": "Manto de Sombras",
-                "DESCRIPTIONS": ["Cada vez que robes o #yExhaust una maldición, obtén #b", " Bloqueo."]
+                "DESCRIPTIONS": ["Cada vez que robes o #yAgotes una maldición, obtén #b", " de Bloqueo."]
         },
         "hermit:TakeAimPower": {
                 "NAME": "Apuntar",
@@ -21,30 +21,30 @@
         },
         "hermit:AdaptPower": {
                 "NAME": "Adaptar",
-                "DESCRIPTIONS": ["Al comienzo de tu turno, #yExhaust hasta #b", " carta para obtener #b8 Bloqueo.", " cartas. Obtén #b8 Bloqueo por cada una."]
+                "DESCRIPTIONS": ["Al comienzo de tu turno, #yAgota hasta #b", " carta para obtener #b8 de Bloqueo.", " cartas. Obtén #b8 de Bloqueo por cada una."]
         },
         "hermit:Bruise": {
-                "NAME": "Moretón",
-                "DESCRIPTIONS": ["Este turno, el objetivo recibe #b", " más daño de ataque."]
+                "NAME": "Magulladura",
+                "DESCRIPTIONS": ["Este turno, el objetivo recibe #b", " más daño de ataques."]
         },
         "hermit:HorrorPower": {
                 "NAME": "Horror",
-                "DESCRIPTIONS": ["El moretón no se desvanecerá por #b", " turno.", " turnos."]
+                "DESCRIPTIONS": ["La Magulladura no se desvanecerá por #b", " turno.", " turnos."]
         },
         "hermit:ComboPower": {
                 "NAME": "Combo",
-                "DESCRIPTIONS": ["La primera carta #b", " #yDead #yOn activada este turno volverá a tu mano.", " cartas #yDead #yOn activadas este turno volverán a tu mano."]
+                "DESCRIPTIONS": ["La primera carta #b", " #yPreciso activada este turno volverá a tu mano.", " cartas #yPreciso activadas este turno volverán a tu mano."]
         },
         "hermit:BigShotPower": {
-                "NAME": "Barril Humeante",
-                "DESCRIPTIONS": ["Cada vez que actives un efecto #yDead #yOn, tu próximo ataque infligirá #b", " más daño."]
+                "NAME": "Gran Disparo",
+                "DESCRIPTIONS": ["Cada vez que actives un efecto #yPreciso, tu próximo ataque infligirá #b", " más de daño."]
         },
         "hermit:BrawlPower": {
                 "NAME": "Pelea",
-                "DESCRIPTIONS": ["Al comienzo de tu turno, aplica #b", " moretón a TODOS los enemigos."]
+                "DESCRIPTIONS": ["Al comienzo de tu turno, aplica #b", " Magulladura a TODOS los enemigos."]
         },
         "hermit:Rugged": {
-                "NAME": "Resistente",
+                "NAME": "Robusto",
                 "DESCRIPTIONS": ["Las próximas", " veces que recibirías daño de ataque no bloqueado, redúcelo a #b2 [ELIMINAR_ESPACIO].", " vez que recibirías daño de ataque no bloqueado, redúcelo a #b2 [ELIMINAR_ESPACIO]."]
         },
         "hermit:EternalPower": {
@@ -53,7 +53,7 @@
         },
         "hermit:OverwhelmingPowerPower": {
                 "NAME": "Poder Abrumador",
-                "DESCRIPTIONS": ["Pierde #b"," HP si terminas tu turno con #b0 Energía."]
+                "DESCRIPTIONS": ["Pierde #b"," PV si terminas tu turno con #b0 Energía."]
         },
         "hermit:Bounty": {
                 "NAME": "Recompensa",
@@ -65,19 +65,19 @@
         },
         "hermit:DeterminationPower": {
                 "NAME": "Determinación",
-                "DESCRIPTIONS": ["Cada vez que se te aplique un debilitador, obtén #b", " #yFuerza [ELIMINAR_ESPACIO]."]
+                "DESCRIPTIONS": ["Cada vez que se te aplique un efecto negativo, obtén #b", " #yFuerza [ELIMINAR_ESPACIO]."]
         },
         "hermit:RyeStalkPower": {
-                "NAME": "Tallo de Centeno",
+                "NAME": "Ramira de Centeno",
                 "DESCRIPTIONS": ["Al final de este turno, #yRetén cualquier número de cartas."]
         },
         "hermit:PetGhostPower": {
-                "NAME": "Fantasma Mascota",
+                "NAME": "Compañero Fantasma",
                 "DESCRIPTIONS": ["No puedes morir. Morirás al final de", " tu próximo turno.", " este turno."]
         },
         "hermit:SnipePower": {
                 "NAME": "Francotirador",
-                "DESCRIPTIONS": ["El siguiente efecto #b", " #yDead #yOn de este turno se activará dos veces.", " efectos #yDead #yOn de este turno se activarán dos veces."]
+                "DESCRIPTIONS": ["El siguiente efecto #b", " #yPreciso de este turno se activará dos veces.", " efectos #yPreciso de este turno se activarán dos veces."]
         },
         "hermit:CoalescencePower": {
                 "NAME": "Coalescencia",
@@ -89,7 +89,7 @@
         },
         "hermit:MaintenanceStrikePower": {
                 "NAME": "Mantenimiento",
-                "DESCRIPTIONS": ["Tus #yStrikes infligen #b", " más daño."]
+                "DESCRIPTIONS": ["Tus #tGolpe infligen #b", " más daño."]
         }
         }
         

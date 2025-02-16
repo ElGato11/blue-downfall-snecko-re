@@ -1,102 +1,102 @@
 {
   "hermit:Momento": {
-    "NAME": "Old Locket",
-    "FLAVOR": "There's a faded picture inside.",
+    "NAME": "Medallón Viejo",
+    "FLAVOR": "Dentro hay una foto desgastada.",
     "DESCRIPTIONS": [
-      "At the start of each combat, add a #yMemento into your hand."
+      "Al comienzo de cada combate, agrega un #yRecuerdo a tu mano."
     ]
   },
   "hermit:RyeStalk": {
-    "NAME": "Rye Stalk",
-    "FLAVOR": "Still in mint condition, despite being chewed on for so long.",
+    "NAME": "Ramita de Centeno",
+    "FLAVOR": "Aún en perfecto estado, a pesar de haber sido masticado durante tanto tiempo.",
     "DESCRIPTIONS": [
-      "Whenever you lose HP during enemy turn, draw #b1 card."
+      "Cada vez que pierdas PV durante el turno del enemigo, roba #b1 carta."
     ]
   },
   "hermit:BartenderGlass": {
-    "NAME": "Shotglass",
-    "FLAVOR": "Any liquid placed inside changes into something else.",
+    "NAME": "Vaso mezclador",
+    "FLAVOR": "Cualquier líquido colocado dentro se transforma en otra cosa.",
     "DESCRIPTIONS": [
-      "First #b2 times you use a potion each combat, gain a random potion. You can only use #b2 potions each combat.",
-      "You cannot use any more potions this combat."
+      "Las primeras #b2 veces que uses una poción en cada combate, obtén una poción aleatoria. Solo puedes usar #b2 pociones en cada combate.",
+      "No puedes usar más pociones en este combate."
     ]
   },
   "hermit:Horseshoe": {
-    "NAME": "Horseshoe",
-    "FLAVOR": "Lucky charm. Somebody is gonna be missing this.",
+    "NAME": "Herradura",
+    "FLAVOR": "Amuleto de la suerte. A alguien le va hacer falta.",
     "DESCRIPTIONS": [
-      "Whenever you gain #yWeak [REMOVE_SPACE], #yFrail or #yVulnerable [REMOVE_SPACE], gain #b1 less."
+      "Cada vez que ganes #yDebil [REMOVE_SPACE], #yDebil o #yVulnerable [REMOVE_SPACE], recibe #b1 menos."
     ]
   },
   "hermit:Spyglass": {
-    "NAME": "Spyglass",
-    "FLAVOR": "Property of Kestin Highfin.",
+    "NAME": "Catalejo",
+    "FLAVOR": "Tambien llamado tubo pirata para mirar.",
     "DESCRIPTIONS": [
-      "If you end your turn #yhermit:Concentrated [REMOVE_SPACE], gain an additional [E] next turn ."
+      "Si terminas tu turno #yConcentrado [REMOVE_SPACE], gana un [E] adicional el siguiente turno."
     ]
   },
   "hermit:RedScarf": {
-    "NAME": "Red Scarf",
-    "FLAVOR": "It's warm and fuzzy.",
+    "NAME": "Bufanda Roja",
+    "FLAVOR": "Es cálida, suave y huele a fresa.",
     "DESCRIPTIONS": [
-      "Whenever you apply a new debuff to an enemy, gain #b3 #yBlock [REMOVE_SPACE]."
+      "Cada vez que apliques un nuevo efecto negativo a un enemigo, gana #b3 de #yBloqueo [REMOVE_SPACE]."
     ]
   },
   "hermit:DentedPlate": {
-    "NAME": "Dented Plate",
-    "FLAVOR": "Several bullets are still lodged inside.",
+    "NAME": "Placa Abollada",
+    "FLAVOR": "Todavía tiene varias balas incrustadas.",
     "DESCRIPTIONS": [
-      "While your HP is at or below #b50% [REMOVE_SPACE], gain [E] and draw #b1 card at the start of your turn."
+      "Mientras tu PV esté en o por debajo del #b50% [REMOVE_SPACE], gana [E] y roba #b1 carta al comienzo de tu turno."
     ]
   },
   "hermit:PetGhost": {
-    "NAME": "Pet Ghost",
-    "FLAVOR": "Poor guy.",
+    "NAME": "Fantasma Mascota",
+    "FLAVOR": "Pobre tipo.",
     "DESCRIPTIONS": [
-      "Prevent your first lethal HP loss each combat."
+      "Previene tu primera pérdida letal de PV en cada combate."
     ]
   },
   "hermit:CharredGlove": {
-    "NAME": "Charred Glove",
-    "FLAVOR": "Parts of the glove still glow with otherworldly cinders.",
+    "NAME": "Guante Chamuscado",
+    "FLAVOR": "Partes del guante aún brillan con cenizas de otro mundo.",
     "DESCRIPTIONS": [
-      "Whenever you draw a #rCurse, your next attack deals #b3 more damage."
+      "Cada vez que robes una #rMaldición, tu próximo ataque inflige #b3 más de daño."
     ]
   },
   "hermit:ClaspedLocket": {
-    "NAME": "Clasped Locket",
-    "FLAVOR": "It won't open anymore.",
+    "NAME": "Medallón Cerrado",
+    "FLAVOR": "Ya no se abrirá más.",
     "DESCRIPTIONS": [
-      "Replaces #yOld #yLocket [REMOVE_SPACE]. First time you draw a #rCurse each turn, #yExhaust it and draw #b2 cards. Upon pickup, obtain #b2 #rInjuries [REMOVE_SPACE].",
-      "Never again..."
+      "Reemplaza al #yMedallón #yViejo [REMOVE_SPACE]. La primera vez que robes una #rMaldición en cada turno, #yAgotala y roba #b2 cartas. Al recogerlo, obtén #b2 #rLesiones [REMOVE_SPACE].",
+      "Nunca más..."
     ]
   },
   "hermit:StraightRazor": {
-    "NAME": "Straight Razor",
-    "FLAVOR": "For a cleaner shave...",
+    "NAME": "Navaja de Afeitar",
+    "FLAVOR": "Para un afeitado más limpio...",
     "DESCRIPTIONS": [
-      "Whenever you remove or #yTransform a card from your deck, heal #b15 HP."
+      "Cada vez que elimines o #yTransformes una carta de tu mazo, cura #b15 PV."
     ]
   },
   "hermit:BrassTacks": {
-    "NAME": "Brass Tacks",
-    "FLAVOR": "The luster on these tacks never seems to fade.",
+    "NAME": "Clavos de Latón",
+    "FLAVOR": "No da poderes alomanticos.",
     "DESCRIPTIONS": [
-      "At the end of your turn, gain #b2 Block."
+      "Al final de tu turno, gana #b2 Bloqueo."
     ]
   },
   "hermit:BlackPowder": {
-    "NAME": "Black Powder",
-    "FLAVOR": "Handle with care.",
+    "NAME": "Pólvora Negra",
+    "FLAVOR": "Manejar con cuidado.",
     "DESCRIPTIONS": [
-      "Whenever you trigger a #yhermit:Dead_On effect, deal #b2 damage to ALL enemies."
+      "Cada vez que actives un efecto #yhermit:Dead_On, inflige #b2 de daño a TODOS los enemigos."
     ]
   },
   "hermit:BloodyTooth": {
-    "NAME": "Broken Tooth",
-    "FLAVOR": "Appears too large to have come from a human jaw...",
+    "NAME": "Diente Roto",
+    "FLAVOR": "Parece demasiado grande para haber salido de una mandíbula humana...",
     "DESCRIPTIONS": [
-      "Whenever you defeat an Elite encounter, heal #b7 HP and gain #b35 gold."
+      "Cada vez que derrotes a un Élite, cura #b7 PV y gana #b35 oro."
     ]
   }
 }

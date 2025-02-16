@@ -1,131 +1,131 @@
 {
   "HermitMod:HermitTutorials": {
     "TEXT": [
-      "Hermit is capable of using #yDead #yOn cards. NL NL #yDead #yOn cards trigger their special effect when positioned in the middle of your hand.",
-      "In even hands, #yboth of the middle cards count, even if these are the only cards in your hand."
+      "El Ermitaño es capaz de usar cartas de #yImpacto #yDirecto. NL NL Las cartas de #yImpacto #yDirecto activan su efecto especial cuando están en el medio de tu mano.",
+      "En manos pares, #ylas dos cartas del medio cuentan, incluso si estas son las únicas cartas en tu mano."
     ],
     "LABEL": [
-      "Next",
-      "Got it",
-      "Dead On",
-      "(Page: ",
+      "Siguiente",
+      "Entendido",
+      "Impacto Directo",
+      "(Página: ",
       ")"
     ]
   },
   "HermitMod:GuardianTutorials": {
     "TEXT": [
-      "The Guardian can Curl Up after gaining a certain amount of Brace.",
-      "He can also stash Gems in cards to augment their effects."
+      "El Guardián puede Enroscarse después de ganar una cierta cantidad de Refuerzo.",
+      "También puede guardar Gemas en cartas para mejorar sus efectos."
     ],
     "LABEL": [
-      "Next",
-      "Got it",
-      "The Guardian",
-      "(Page: ",
+      "Siguiente",
+      "Entendido",
+      "El Guardián",
+      "(Página: ",
       ")"
     ]
   },
   "HermitMod:HexaghostTutorials": {
     "TEXT": [
-      "The Hexaghost channels power by Charging its Flames.",
-      "Perform a certain action while each is Active to Charge it."
+      "El Hexafantasma canaliza poder Cargando sus Llamas.",
+      "Realiza una cierta acción mientras cada una está Activa para Cargarla."
     ],
     "LABEL": [
-      "Next",
-      "Got it",
-      "The Hexaghost",
-      "(Page: ",
+      "Siguiente",
+      "Entendido",
+      "El Hexafantasma",
+      "(Página: ",
       ")"
     ]
   },
   "HermitMod:CharbossTutorials": {
     "TEXT": [
-      "The enemy Heroes have powerful abilities that may require you to alter your strategies.",
-      "Be sure to always check a hero's buffs before engaging."
+      "Los héroes enemigos tienen habilidades poderosas que pueden requerir que alteres tus estrategias.",
+      "Asegúrate de revisar siempre los beneficios de un héroe antes de enfrentarte a él."
     ],
     "LABEL": [
-      "Next",
-      "Got it",
-      "Spire Slayers",
-      "(Page: ",
+      "Siguiente",
+      "Entendido",
+      "Asesinos de la Aguja",
+      "(Página: ",
       ")"
     ]
   },
   "HermitMod:ChampTutorials": {
     "TEXT": [
-      "The Champ can switch between the two Gladiatorial Stances, Berserker Stance and Defensive Stance. Playing Skills while in these Stances will activate their Skill Bonuses, up to three times.",
-      "He can also use powerful Finisher cards while in these stances at the cost of exiting them."
+      "El Campeón puede cambiar entre las dos Posturas Gladiatorias, Postura de Rabioso y Postura Defensiva. Jugar Habilidades mientras estés en estas Posturas activará sus Bonificaciones de Habilidad, hasta tres veces.",
+      "También puede usar poderosas cartas de Finalizador mientras esté en estas posturas a costa de salir de ellas."
     ],
     "LABEL": [
-      "Next",
-      "Got it",
-      "The Champ",
-      "(Page: ",
+      "Siguiente",
+      "Entendido",
+      "El Campeón",
+      "(Página: ",
       ")"
     ]
   },
   "HermitMod:AutomatonTutorials": {
     "TEXT": [
-      "The Automaton can use Encode cards to add up to three cards to a Sequence and combine them into a singular Function Card.",
-      "Some cards have special Compile Effects which activate when they are combined into a Function, which can be either positive or negative (referred to as a Compile Error)."
+      "El Autómata puede usar cartas de Codificación para agregar hasta tres cartas a una Secuencia y combinarlas en una sola carta de Función.",
+      "Algunas cartas tienen efectos especiales de Compilación que se activan cuando se combinan en una Función, lo que puede ser positivo o negativo (referido como un Error de Compilación)."
     ],
     "LABEL": [
-      "Next",
-      "Got it",
-      "The Automaton",
-      "(Page: ",
+      "Siguiente",
+      "Entendido",
+      "El Autómata",
+      "(Página: ",
       ")"
     ]
   },
   "HermitMod:SneckoTutorials": {
     "TEXT": [
-      "The Snecko can Muddle cards to temporarily change their cost to a number between 0 and 3. Muddle will always change the cost of a card and will never reroll the cost to the same number.",
-      "They can also find Gift cards that grant them cards from other characters when they take them."
+      "El Snecko puede Revolver cartas para cambiar temporalmente su costo a un número entre 0 y 3. Revolver siempre cambiará el costo de una carta y nunca volverá a tirar el mismo número.",
+      "También pueden encontrar cartas de Regalo que les otorgan cartas de otros personajes cuando las toman."
     ],
     "LABEL": [
-      "Next",
-      "Got it",
-      "The Snecko",
-      "(Page: ",
+      "Siguiente",
+      "Entendido",
+      "El Snecko",
+      "(Página: ",
       ")"
     ]
   },
   "HermitMod:GremlinsTutorials": {
     "TEXT": [
-      "The Gremlins are five characters at once and all have their own unique effects and HP.",
-      "You can Swap between them using certain cards."
+      "Los Gremlins son cinco personajes a la vez y todos tienen sus propios efectos y HP únicos.",
+      "Puedes Cambiar entre ellos usando ciertas cartas."
     ],
     "LABEL": [
-      "Next",
-      "Got it",
-      "The Gremlins",
-      "(Page: ",
+      "Siguiente",
+      "Entendido",
+      "Los Gremlins",
+      "(Página: ",
       ")"
     ]
   },
   "HermitMod:SlimeBossTutorials": {
     "TEXT": [
-      "The Slime Boss can apply Goop to enemies to increase the damage they take the next time they are attacked, removing all Goop and triggering any Consume effects.",
-      "He can also Split into Slime minions that attack at the start of his turn and whenever he Commands."
+      "El Jefe de Limo puede aplicar Brea a los enemigos para aumentar el daño que reciben la próxima vez que sean atacados, eliminando toda la Brea y activando cualquier efecto de Consumir.",
+      "También puede Dividirse en limos que atacan al comienzo de su turno y cada vez que ordene."
     ],
     "LABEL": [
-      "Next",
-      "Got it",
-      "The Slime Boss",
-      "(Page: ",
+      "Siguiente",
+      "Entendido",
+      "El Jefe de Limo",
+      "(Página: ",
       ")"
     ]
   },
   "HermitMod:CollectorTutorials": {
     "TEXT": [
-      "Collector takes Essences from foes. You can spend Essences to add their spirits into your Collection.",
-      "The Collection is a separate deck. You draw one of your five cards each turn from it."
+      "El Coleccionista toma Esencias de los enemigos. Puedes gastar Esencias para agregar sus espíritus a tu Colección.",
+      "La Colección es un mazo separado. Robas una de tus cinco cartas cada turno de él."
     ],
     "LABEL": [
-      "Next",
-      "Got it",
-      "The Collector",
-      "(Page: ",
+      "Siguiente",
+      "Entendido",
+      "El Coleccionista",
+      "(Página: ",
       ")"
     ]
   }
